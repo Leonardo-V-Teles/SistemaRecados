@@ -15,7 +15,7 @@ namespace SistemaRecados.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "O Sistema Recados tem o objetivo de ser um mural de recados eletrônico";
+            ViewBag.Message = "O Sistema Recados tem como objetivo de ser um mural de recados eletrônico";
 
             return View();
         }
